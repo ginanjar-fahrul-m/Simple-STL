@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : customer.xml
+    Created on : November 20, 2013, 7:23 PM
+    Author     : Ginanjar Fahrul M. <ginanjar.fahrul.m@gmail.com>
+    Description:
+        Simple XML Example.
+-->
+
+<customer id="100">
+    <age>23</age>
+    <name>Gin</name>
+</customer>
